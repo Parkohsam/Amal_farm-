@@ -1,5 +1,3 @@
-// Checkout Form Functionality
-
 // Get cart items from localStorage
 let cartItems = JSON.parse(localStorage.getItem('cartItems')) || [];
 
